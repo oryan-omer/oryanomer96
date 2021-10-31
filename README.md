@@ -3,17 +3,13 @@
 
 - 🔭 I’m currently working at [Superwise.ai](https://superwise.ai/)
 
-- 📍 Current Loaction **Tel Aviv, Israel**
+- 📝 I regularly write articles on [https://medium.com/@oryan.omer]( Scalability, Web Frameworks, Testing)
 
-- 📝 I regularly write articles on [Scalability, Web Frameworks, Testing](Scalability, Web Frameworks, Testing)
+- 💬 Ask me about **Python, MLOPS, ML Monitoring , Microservices**
 
-- 💬 Ask me about **Python, React, MLOPS, ML Monitoring , Microservices**
+- 📫 How to reach me **oryanomer@gmail.com**
 
-- 📫 How to reach me **oryandrive@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/oryan-omer](https://www.linkedin.com/in/oryan-omer)
-
-- ⚡ Hobbies **wave surfing**
+- ⚡ Hobbies **Wave surfing and Snowboarding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
