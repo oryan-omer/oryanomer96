@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **oryanomer@gmail.com**
 
+- Check out my website on netlify: https://oryanomer.netlify.app/#/home 
 - ⚡ Hobbies **Wave surfing and Snowboarding**
 
 <h3 align="left">Connect with me:</h3>
